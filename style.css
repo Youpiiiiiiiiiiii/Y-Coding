@@ -1,0 +1,18 @@
+.img-fluid{
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+
+.contact-icon {
+    margin-right: 30px; /* Atur margin kanan sesuai kebutuhan */
+}
+
+/* nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+} */
+
